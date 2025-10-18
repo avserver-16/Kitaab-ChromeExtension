@@ -3,6 +3,8 @@
 Kitaab is a lightweight and intuitive **Chrome Extension** that lets you **save and manage helpful data for specific websites** — like quick notes, reminders, or useful links — all directly inside your browser.
 
 ---
+## Youtube
+[![Kitaab](https://github.com/avserver-16/Kitaab-ChromeExtension/blob/main/Kitaab.png)](https://youtu.be/-7ry2SWE2ac?si=ZzTFZikEcpzT6Eow)
 
 ## 🚀 Features
 
